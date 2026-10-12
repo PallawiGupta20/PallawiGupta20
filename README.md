@@ -1,5 +1,5 @@
 # Hi, I'm Pallawi Gupta 👋
-### SDET & Test Automation Framework Architect
+### SDET & Automation Framework Architect
 
 <p align="left">
   <a href="https://linkedin.com"><img src="https://shields.io" alt="LinkedIn" /></a>
@@ -14,7 +14,7 @@ I am a Software Development Engineer in Test (SDET) and QA Automation Engineer w
 
 ### 🛠️ Interactive Engineering Stack
 
-*Click any tech badge to instantly explore my code repositories filtering for that specific ecosystem.*
+*Click any tech badge to immediately explore my code repositories filtering for that specific ecosystem.*
 
 <table>
   <tr>
@@ -114,3 +114,10 @@ I am a Software Development Engineer in Test (SDET) and QA Automation Engineer w
 ##### ⚙️ [appium-native-regression](https://github.com)
 * **Application Under Test:** `com.saucelabs.mydemoapp.rn` (React Native Production App)
 * **Stack:** `Python 3` • `Appium (UiAutomator2)` • `PyTest` • `Android ADB Keycodes`
+* **Deep Architecture Implementation:**
+  * **React Native Input Bypassing:** Overcomes UI freeze problems typical of React Native text field input masks by loop-injecting direct, low-level Android hardware keycodes (`driver.press_keycode(67)` for Backspace keys) to guarantee a pristine text array field before character injection loops start.
+  * **Coordinate-Based Viewport Swipe Navigation:** Handles dynamic catalog structures rendering under the initial viewport fold line. Built an element index tracking loop that executes targeted vertical swipes (`driver.swipe(start_x=500, start_y=1800, end_x=500, end_y=800, duration=800)`) to cleanly navigate hidden tiles into active focus.
+
+##### 🏎️ [android-performance-validation](https://github.com) *(OS & Hardware Performance Core)*
+* **Ecosystem Highlight:** `Perfetto` • `Systrace` • `Low Power Monsoon Hardware` • `Android ADB & Monkey`
+* **Deep Architecture Implementation:**
