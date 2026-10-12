@@ -97,4 +97,4 @@ I am a Software Development Engineer in Test (SDET) and QA Automation Engineer w
 ### 📫 Let's Collaborate!
 
 * 💼 **LinkedIn Profile:** [://linkedin.com](https://linkedin.com)
-* 📧 **Corporate / Professional Email:** [pallawi20497@gmail.com](mailto:
+* 📧 **Corporate / Professional Email:** [pallawi20497@gmail.com](mailto:pallawi20497@gmail.com)
